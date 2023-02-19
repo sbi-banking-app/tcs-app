@@ -3,3 +3,4 @@ hello merge conflicting
 hello this is my java program
 am developing palindrom program
 merge command tesit
+hello cheery pick test
