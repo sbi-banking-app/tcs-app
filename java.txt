@@ -1,3 +1,2 @@
 hello this is my java program
 am developing palindrom program
-revert code will take action
