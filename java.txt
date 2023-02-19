@@ -1,4 +1,5 @@
 hello this merge conflict example
+hello merge conflicting
 hello this is my java program
 am developing palindrom program
-merge command test
+merge command tesit
